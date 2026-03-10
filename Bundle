@@ -132,7 +132,7 @@
         // Full Data for 12 Categories
         const categories = [
             {
-                id: "schools", title: "Schools", icon: "fa-school",
+                id: "school", title: "Schools", icon: "fa-school",
                 shortDesc: "Digital campuses for modern education.",
                 desc: "Build trust with parents and students through a digital-first campus experience. A professional website modernizes admissions, showcases facilities, and keeps parents updated effortlessly.",
                 bundles: [
